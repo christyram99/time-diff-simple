@@ -1,0 +1,14 @@
+{
+    "name": "time-diff-string",
+    "version": "1.0.4",
+    "description": "convert time difference into string",
+    "main": "index.js",
+    "keywords": [
+        "time",
+        "difference",
+        "string",
+        "npm",
+        "package",
+        "christyram99"
+    ]
+}
